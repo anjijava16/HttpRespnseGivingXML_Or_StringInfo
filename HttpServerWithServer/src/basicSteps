@@ -1,0 +1,6 @@
+I) It is taking InjectionServlet class (XML) file processing giving
+output as result as some information
+ii) Sending respnse as some information as string
+iii)Sending some information as Output processing Marsher & unmarsher
+iv) Taking request to HttpClient Or HttpEntity and giving response
+here :response.getWriter().write("returnValue").
